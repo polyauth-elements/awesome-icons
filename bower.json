@@ -1,0 +1,33 @@
+{
+  "name": "awesome-icons",
+  "version": "0.1.0",
+	"description": "Brands and social media icons",
+  "main": [
+    "awesome-square-brand-icons.html"
+  ],
+  "authors": [
+    "Andrei Nesterov <ae.nesterov@polyauth.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "bower_components",
+    "test",
+    "demo"
+  ],
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "icon",
+    "font awesome",
+    "brand icons",
+    "social media icons"
+  ],
+  "dependencies": {
+    "polymer": "^1.0.0",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.0"
+  }
+}
